@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.722" height="21.024" viewBox="0 0 21.722 21.024">
+  <g id="icono_bots" transform="translate(-1.071 -0.573)">
+    <g id="Group_179901" data-name="Group 179901">
+      <path id="Path_103120" data-name="Path 103120" d="M5.417,19.119a2.743,2.743,0,0,1-2.743-2.743V9.061A2.743,2.743,0,0,1,5.417,6.318H16.389a2.743,2.743,0,0,1,2.743,2.743v7.315a2.743,2.743,0,0,1-2.743,2.743H13.407" transform="translate(1.009 0.199)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <line id="Line_160" data-name="Line 160" x2="0.009" transform="translate(9.626 11.089)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <line id="Line_161" data-name="Line 161" x2="0.009" transform="translate(14.198 11.089)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Path_103121" data-name="Path 103121" d="M9.174,15.318a3.2,3.2,0,0,0,4.525.047l.047-.047" transform="translate(0.452 -0.571)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="1.596" cy="1.596" rx="1.596" ry="1.596" transform="translate(11.07 17.778)" fill="none" stroke="#25212b" stroke-width="1.25"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="1.596" cy="1.596" rx="1.596" ry="1.596" transform="translate(10.158 1.198)" fill="none" stroke="#25212b" stroke-width="1.25"/>
+      <line id="Line_162" data-name="Line 162" y2="2.205" transform="translate(11.755 4.45)" fill="none" stroke="#25212b" stroke-width="1.25"/>
+      <path id="Path_103122" data-name="Path 103122" d="M2.19,16.221h0A1.9,1.9,0,0,1,.5,14.167V13.019A1.9,1.9,0,0,1,2.19,10.965" transform="translate(1.195 -0.199)" fill="none" stroke="#25212b" stroke-width="1.25"/>
+      <path id="Path_103123" data-name="Path 103123" d="M21.044,10.965h0a1.9,1.9,0,0,1,1.689,2.054v1.148a1.9,1.9,0,0,1-1.689,2.054" transform="translate(-0.564 -0.199)" fill="none" stroke="#25212b" stroke-width="1.25"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.25" height="17.25" viewBox="0 0 17.25 17.25">
+  <g id="Icono_Dashboard" transform="translate(0.625 0.625)">
+    <path id="Path_103065" data-name="Path 103065" d="M4,4,4,6A2,2,0,0,1,6,4H8a2,2,0,0,1,2,2V7A2,2,0,0,1,8,9H6A2,2,0,0,1,4,7Z" transform="translate(-4 -4)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+    <path id="Path_103066" data-name="Path 103066" d="M4,13m0,2a2,2,0,0,1,2-2H8a2,2,0,0,1,2,2v3a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2Z" transform="translate(-4 -4)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+    <path id="Path_103067" data-name="Path 103067" d="M14,4m0,2a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V9a2,2,0,0,1-2,2H16a2,2,0,0,1-2-2Z" transform="translate(-4 -4)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+    <path id="Path_103068" data-name="Path 103068" d="M14,15m0,2a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2v1a2,2,0,0,1-2,2H16a2,2,0,0,1-2-2Z" transform="translate(-4 -4)" fill="none" stroke="#25212b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+  </g>
+</svg>
